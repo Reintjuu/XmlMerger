@@ -8,8 +8,8 @@ $ XmlMerger.exe . output.xml
 
 or
 
-```
-$ XmlMerger.exe “C:\Long Path\To\XML-files” superoutput.xml 
+```bash
+$ XmlMerger.exe "C:\Long Path\To\XML-files" superoutput.xml 
 ```
 
 ## Example
